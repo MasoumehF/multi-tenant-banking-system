@@ -1,0 +1,15 @@
+{sam,200}.
+{james,32150}.
+{karen,200}.
+{ahmed,450}.
+{sue,3200}.
+{bing,2650}.
+{cyrus,230}.
+{danie,1900}.
+{gaston,2000}.
+{carol,450}.
+{bruce,180}.
+{juan,6460}.
+{ruby,190}.
+{emile,120}.
+{kira,240}.
